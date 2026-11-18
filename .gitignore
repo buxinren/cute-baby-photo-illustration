@@ -1,0 +1,21 @@
+# Personal inputs and generated images stay outside this instruction repository.
+inputs/
+outputs/
+private/
+work/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.heic
+*.mp4
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.DS_Store
+Thumbs.db
